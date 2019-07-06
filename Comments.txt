@@ -1,0 +1,12 @@
+Data from Pyber in rural areas has a different behavior than the data from Suburban and Urban areas. 
+While in rural areas,  the cities with less Pyber drivers tend to have higher fares, in suburban and 
+urban areas is the opposite.
+This trend indicates that in those areas where there is a higher availability of drivers, fares are lower. 
+Drivers are willing to charge less in order to have a ride.
+
+The percentage distribution of fares and rides is very similar between the three types of cities, however, the	
+percentage distribution of drivers is a lot higher in urban areas. Cities in urban areas have a high number of drivers available.
+
+Fares in rural areas tend to be higher than in cities of suburban and urban areas. The distance that each driver covers in rural areas
+might explain this type of behavior of the data. It would be nice to have the average distance or duration of the trips in each city type
+to compare. 
